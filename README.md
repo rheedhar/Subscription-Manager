@@ -1,2 +1,2 @@
 # Subscription-Manager
-# Updting Read me on local machine
+# Updating Read me on local machine
